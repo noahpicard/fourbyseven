@@ -6,9 +6,9 @@ var puzzleList = [
     hint: "try harder?",
   },
   {
-    title: "\"Why the long fact?\"",
-    image: "puzzle_images/why_the_long_fact.png",
-    answer: "cuticles",
+    title: "\"Grounds\"",
+    image: "puzzle_images/grounds.png",
+    answer: "cuticle",
     hint: "try less",
   }
 ];
