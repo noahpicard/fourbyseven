@@ -17,7 +17,6 @@ input {
 
 img {
   border: 2px purple solid;
-  max-width: 500px;
 }
 
 button {

@@ -34,7 +34,7 @@ function getCurrentWeekNumber() {
   var numberOfDays = Math.floor((currentdate) / (24 * 60 * 60 * 1000));
   var result = Math.ceil(( currentdate.getDay() + 1 + numberOfDays) / 7);
   console.log(`The week number of the current date (${currentdate}) is ${result}.`);
-  return result;
+  return result; // Change this to the index of your puzzle for testing
 }
 
 function getCurrentPuzzleData() {
