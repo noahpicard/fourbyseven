@@ -1,0 +1,40 @@
+body {
+  background: black;
+  color: white;
+  font-family: monospace;
+  font-size: 24px;
+}
+
+input {
+  font-size: 24px;
+  border: none;
+  border-bottom: 3px dashed white;
+  background: black;
+  color: white;
+  font-family: monospace;
+  text-transform: uppercase;
+}
+
+img {
+  border: 2px purple solid;
+  max-width: 500px;
+}
+
+button {
+  background: black;
+  border: 2px green solid;
+  font-size: 24px;
+  color: white
+}
+
+button:hover {
+  background: #111;
+}
+
+#answer-positive {
+  background: green;
+}
+
+#answer-negative {
+  background: purple;
+}
